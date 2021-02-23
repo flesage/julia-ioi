@@ -7,3 +7,5 @@ get_data_from_server(server,server_datadir,local_datadir);
 include("ioi.jl");
 
 vessels=show_preview(local_datadir,1)
+
+print("test")
